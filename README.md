@@ -19,6 +19,7 @@ This was our first solo project at the Flatiron School (NYC Data Science)
    - statsmodels
    - XGBoost
    - pydotplus
+   - BeautifulSoup
 
 ## Process
 I experimented with several different models after separating the data into training and test sets to see which model could best classify the Team Stats data. The Dataset had 41 columns and 9840 rows prior to data cleaning and feature selection. I ended up with 14 features, all continuous with the exception of Home or Away.
